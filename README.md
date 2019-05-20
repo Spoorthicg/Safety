@@ -1,0 +1,2 @@
+# Safety
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1891174ac0664747b2f659fc0e7a75bf)](https://app.codacy.com/app/Spoorthicg/Safety?utm_source=github.com&utm_medium=referral&utm_content=Spoorthicg/Safety&utm_campaign=Badge_Grade_Dashboard)
